@@ -35,7 +35,7 @@
 <body>
 
 <h1 style="text-align:center;">Add New Employee</h1>
-<form:form method="post" action="save">
+<form:form method="POST" action="save">
     <table align="center">
         <tr>
             <td>Name:</td>

@@ -28,4 +28,9 @@ D:\setup\apache-tomcat-10.1.28\webapps
         <property name="password" value=""/>
     </bean>
 ```
-# 
+ 
+## Add emp Screen Shot
+http://localhost:8080/emp-management/add
+
+<image src="https://github.com/user-attachments/assets/2674e991-b940-489e-bf04-10b44da20f1b" width="750" height="350">
+

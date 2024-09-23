@@ -9,6 +9,15 @@ First to setup proper ,than copy the war file paste webapps folder
 ```shell
 D:\setup\apache-tomcat-10.1.28\webapps
 ```
+# Add Dependency 
+```shell
+<dependency>
+      <groupId>com.h2database</groupId>
+      <artifactId>h2</artifactId>
+      <version>2.2.224</version>
+      <scope>runtime</scope>
+    </dependency>
+```
 ## DataBase H2 
 ```shell
 

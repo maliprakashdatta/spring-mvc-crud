@@ -34,3 +34,9 @@ http://localhost:8080/emp-management/add
 
 <image src="https://github.com/user-attachments/assets/2674e991-b940-489e-bf04-10b44da20f1b" width="750" height="350">
 
+
+## Add view Screen Shot
+http://localhost:8080/emp-management/view
+
+<image src="https://github.com/user-attachments/assets/1ffa097f-51d9-4458-8ba5-4c29d5f124a5" width="750" height="350">
+

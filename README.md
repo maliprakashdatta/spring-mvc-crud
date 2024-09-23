@@ -4,6 +4,11 @@
 Go to the Command Prompt->C:\Users\sona>startup Than Enter..
 
 ```
+# Deploy The war file 
+First to setup proper ,than copy the war file paste webapps folder
+```shell
+D:\setup\apache-tomcat-10.1.28\webapps
+```
 ## DataBase H2 
 ```shell
 
@@ -14,3 +19,4 @@ Go to the Command Prompt->C:\Users\sona>startup Than Enter..
         <property name="password" value=""/>
     </bean>
 ```
+# 
